@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Visualisation||Analytics||Manipualtion
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on "Data/analysis/Project Management"
-- 📫 How to reach me : https://www.linkedin.com/in/amba-sharma-96a92211b/
+- 📫 How to reach me : https://www.linkedin.com/in/amba62/
 
 <!---
 sharmaamba/sharmaamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
