@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sharmaamba
-- 👀 I’m interested in Data Visualisation|Analytics|
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in Data Visualisation|Analytics|Gen AI|LLM
 - 💞️ I’m looking to collaborate on "Data/analysis/Project Management"
 - 📫 How to reach me : https://www.linkedin.com/in/amba62/
 
